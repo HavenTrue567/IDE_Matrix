@@ -1,0 +1,14 @@
+{
+  "name": "aether-ide",
+  "version": "1.0.0",
+  "description": "Premium multi-language IDE in web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "private": true
+}
